@@ -1,4 +1,3 @@
-import { toBeInTheDocument } from '@testing-library/jest-dom/dist/matchers';
 import { RecipeCard } from './RecipesCard';
 import PropTypes from 'prop-types';
 
