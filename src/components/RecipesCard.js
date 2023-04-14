@@ -22,7 +22,7 @@ export const RecipeCard = ({
         </div>
       </div>
       <div>
-        <h3>Difficulty</h3>
+        <h3>{difficulty}</h3>
         <div>
           <span>Easy</span>
           <span>Medium</span>
